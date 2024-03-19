@@ -1,0 +1,8 @@
+D:\Learning\2 курс\Методи та засоби ООАП\Lab 8\Lab 8.2\bin\Debug\Lab_8._2.exe.config
+D:\Learning\2 курс\Методи та засоби ООАП\Lab 8\Lab 8.2\bin\Debug\Lab_8._2.exe
+D:\Learning\2 курс\Методи та засоби ООАП\Lab 8\Lab 8.2\bin\Debug\Lab_8._2.pdb
+D:\Learning\2 курс\Методи та засоби ООАП\Lab 8\Lab 8.2\obj\Debug\Lab 8.2.csproj.AssemblyReference.cache
+D:\Learning\2 курс\Методи та засоби ООАП\Lab 8\Lab 8.2\obj\Debug\Lab 8.2.csproj.SuggestedBindingRedirects.cache
+D:\Learning\2 курс\Методи та засоби ООАП\Lab 8\Lab 8.2\obj\Debug\Lab 8.2.csproj.CoreCompileInputs.cache
+D:\Learning\2 курс\Методи та засоби ООАП\Lab 8\Lab 8.2\obj\Debug\Lab_8._2.exe
+D:\Learning\2 курс\Методи та засоби ООАП\Lab 8\Lab 8.2\obj\Debug\Lab_8._2.pdb
